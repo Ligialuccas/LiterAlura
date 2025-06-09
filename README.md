@@ -19,7 +19,8 @@ Buscar livros por título e salvar no banco.
 - Exibir os 10 livros mais baixados pela API.
 
 ### 🛠️ Tecnologias utilizadas
-Java 23
+
+- Java 23
 
 - Spring Boot
 
@@ -31,4 +32,5 @@ Java 23
 
 - Bibliotecas utilitárias como Scanner para console
 
-  ### 
+  ![image](https://github.com/user-attachments/assets/5bfb9064-d067-4933-b2fa-6d94b3f3b93e)
+
